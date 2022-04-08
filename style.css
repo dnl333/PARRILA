@@ -1,0 +1,124 @@
+@charset "UTF-08";
+
+:root{--color1:#D91A2A;
+      --color2:#730E16;
+      --color3:#F27781;
+      --color4:#F2D5D5;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@font-face {
+    font-family: 'bebas';
+    src: url(fontes/BebasKai.ttf);
+}
+
+
+body{text-align: center;background-image: linear-gradient(to left,#000000d8,#000000da);margin: auto;}
+
+.img{max-width: 100%;text-align: center;border-radius: 2px;}
+
+ nav{text-align:center;background-color: rgb(0, 0, 0);margin: auto;max-width: 100%;}
+
+ a{text-decoration: none;color: rgba(255, 255, 255, 0.863);font-weight: 400;margin-left: 40px;line-height: 45px;
+font-family: 'nunito',sans-serif;}
+ 
+ a:hover{background-color: #6e1216;padding: 7px;color: white; border-radius: 1px;}
+ 
+ main .enderecos{background-color: #cfcfcf;
+                 margin:auto;
+                 width: 1500px;
+                 margin-top: 5px;
+                 font-family: 'bebas',sans-serif;
+                 font-size: 60px;
+                 padding: 2px;
+                 border-radius: 2px;
+                 text-decoration: underline;
+                 max-width: 100%;
+                 padding-top: 40px;
+                 
+                 }
+
+      .lista{background-color: #cfcfcf;
+             margin: auto;
+             width: 1500px;
+             font-family: 'bebas',sans-serif;
+             font-size: 32px;
+             padding: 2px;
+             border-radius: 2px;
+             max-width: 100%;
+             line-height:70px;
+             text-align: center;
+             padding-top: 70px;
+             }  
+       .efeito:hover{background-color: rgb(224, 146, 1);
+                     padding: 15px;
+                     font-size: 38px;
+                     border-radius: 2px;
+                     max-width: 100%;
+                     }
+                 
+        .var{background-color:#cfcfcf;
+            margin:auto;
+            width: 1500px;
+            margin-top: 15px;
+            font-family: 'bebas',sans-serif;
+            font-size: 60px;
+            padding: 2px;
+            border-radius: 2px;
+            max-width: 100%;
+            padding-top: 40px;
+            padding-bottom: 50px;
+        }
+       
+        .fotos{width: 430px; max-width: 100%;border-radius: 2px;}
+
+        .png{background-color: #cfcfcf;
+             margin: auto;
+             width: 1500px;
+             padding: 2px;
+             border-radius: 2px;
+             max-width: 100%;
+             padding-bottom: 50px;
+            }
+
+            .if{background-color: #cfcfcf;
+                padding: 2px;
+                margin: auto;
+                max-width: 100%;
+                width: 1500px;
+                margin-top: 15px;
+                padding-bottom: 25px;
+            
+            
+            }
+
+            .ifood{text-align: center;
+                   max-width: 80%;
+                   border-radius: 2px;
+                   margin: auto;
+                   margin-top: 8px;
+                   width: 1000px;
+                   border-style:groove;
+                   border-color: #000000a9;
+                }
+
+            footer{background-color:black;
+                   color: white;
+                   font-family: 'nunito',sans-serif;
+                   font-size: 10px;
+                   font-weight: 100px;
+                   border-radius: 2px;
+                   margin: auto;
+                   width: 1500px;
+                   padding: 3px;
+                   margin-top: 3px;
+                   max-width: 100%;
+            }
+            .container1{font-size: 18px;font-family: 'nunito',sans-serif;margin: auto;max-width: 100%;display: inline-block; padding: 5px;margin-left: 35px;}
+            
+
+
+            .fb{height: 56px;margin-left: 5px;}
+            .ig{margin: auto;height: 60px;margin-left: -55px;}
+
+                   
