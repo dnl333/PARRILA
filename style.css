@@ -36,19 +36,20 @@ font-family: 'nunito',sans-serif;}
                  max-width: 100%;
                  padding-top: 40px;
                  
+                 
                  }
 
       .lista{background-color: #cfcfcf;
              margin: auto;
              width: 1500px;
              font-family: 'bebas',sans-serif;
-             font-size: 32px;
+             font-size: 30px;
              padding: 2px;
              border-radius: 2px;
              max-width: 100%;
-             line-height:70px;
              text-align: center;
              padding-top: 70px;
+             padding-bottom: 55px;
              }  
        .efeito:hover{background-color: rgb(224, 146, 1);
                      padding: 15px;
@@ -70,7 +71,10 @@ font-family: 'nunito',sans-serif;}
             padding-bottom: 50px;
         }
        
-        .fotos{width: 430px; max-width: 100%;border-radius: 2px;}
+        .fotos{width: 380px; 
+              max-width: 100%;
+              border-radius: 5px;
+             }
 
         .png{background-color: #cfcfcf;
              margin: auto;
