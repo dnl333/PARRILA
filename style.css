@@ -22,7 +22,7 @@ body{text-align: center;
 
  nav{text-align:center;background-color: rgb(0, 0, 0);margin: auto;max-width: 100%;}
 
- a{text-decoration: none;color: rgba(255, 255, 255, 0.863);font-weight: 400;margin-left: 50px;line-height: 45px;
+ a{text-decoration: none;color: rgba(255, 255, 255, 0.863);font-weight: 400;margin-left: 35px;line-height: 45px;
 font-family: 'nunito',sans-serif;}
  
  a:hover{background-color: #6e1216;padding: 7px;color: white; border-radius: 1px;}
@@ -131,7 +131,3 @@ font-family: 'nunito',sans-serif;}
 
             .fb{height: 56px;margin-left: 5px;}
             .ig{margin: auto;height: 60px;margin-left: -55px;}
-
-            .fotos:hover{width: 400px;}
-           
-                   
