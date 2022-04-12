@@ -13,6 +13,9 @@
 }
 
 
+
+
+
 body{text-align: center;
     background-image: linear-gradient(to left,#000000d8,#000000da);margin: auto;}
 
@@ -48,7 +51,7 @@ font-family: 'nunito',sans-serif;}
              margin: auto;
              width: 1500px;
              font-family: 'bebas',sans-serif;
-            font-size: clamp(20px,30px,30px);
+             font-size: clamp(20px,30px,30px);
              padding: 2px;
              border-radius: 2px;
              max-width: 100%;
