@@ -164,7 +164,7 @@ font-family: 'nunito',sans-serif;}
                   margin-top: 34px;
                   font-family: 'bebas',sans-serif;
                   font-size: 60px;
-                  padding: 2px;
+                  padding: 5px;
                   border-radius: 2px;
                   text-decoration: underline;
                   max-width: 100%;
@@ -183,7 +183,7 @@ font-family: 'nunito',sans-serif;}
                       max-width: 100%;
                       padding-top: 20px;
                       text-align: center;
-                      padding: 2px;
+                      padding: 5px;
                       line-height: 50px;
                   }
                   .valores{background-color: #cfcfcf;
@@ -198,7 +198,7 @@ font-family: 'nunito',sans-serif;}
                       max-width: 100%;
                       
                       text-align: center;
-                      padding: 2px;
+                      padding: 5px;
                       line-height: 0px;}
 
                       .valores li{
