@@ -62,6 +62,7 @@ font-family: 'nunito',sans-serif;}
                      font-size: 38px;
                      border-radius: 2px;
                      max-width: 100%;
+                     cursor: pointer;
                      }
                  
         .var{background-color:#cfcfcf;
@@ -209,4 +210,5 @@ font-family: 'nunito',sans-serif;}
                     font-size: 25px;
                     border-radius: 2px;
                     max-width: 100%;
+                    cursor: pointer;
                     }
