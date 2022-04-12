@@ -203,3 +203,10 @@ font-family: 'nunito',sans-serif;}
                       padding: 15px;
                       font-weight: 800;
                   }
+
+                  .efeito2:hover{background-color: rgb(224, 146, 1);
+                    padding: 15px;
+                    font-size: 25px;
+                    border-radius: 2px;
+                    max-width: 100%;
+                    }
