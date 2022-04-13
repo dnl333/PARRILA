@@ -334,3 +334,12 @@ font-family: 'nunito',sans-serif;}
 
 
                    }
+
+                   @media(max-width:600px){
+                       .container1{margin-left: -21px;}
+
+
+
+
+                   }
+
