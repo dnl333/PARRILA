@@ -42,10 +42,15 @@ font-family: 'nunito',sans-serif;}
                  max-width: 100%;
                  padding-top: 40px;
                  margin-bottom: -2px;
-                
-                 
-                 
-                 }
+                }
+
+                @media(max-width:600px){
+
+                    main .enderecos{font-size: 45px;}  
+      
+      
+                   }
+      
 
       .lista{background-color: #cfcfcf;
              margin: auto;
@@ -59,6 +64,12 @@ font-family: 'nunito',sans-serif;}
              padding-top: 70px;
              padding-bottom: 55px;
              }  
+             @media(max-width:600px){
+
+              .lista{font-size: 25px;}  
+
+
+             }
 
        .efeito:hover{background-color: rgb(224, 146, 1);
                      padding: 15px;
@@ -67,6 +78,13 @@ font-family: 'nunito',sans-serif;}
                      max-width: 100%;
                      cursor: pointer;
                      }
+
+                     @media(max-width:600px){
+
+                    .efeito:hover{font-size: 30px;}  
+          
+          
+                       }
                  
         .var{background-color:#cfcfcf;
             margin:auto;
@@ -80,6 +98,14 @@ font-family: 'nunito',sans-serif;}
             padding-top: 40px;
             padding-bottom: 50px;
         }
+
+        @media(max-width:600px){
+
+            .var{font-size: 45px;}  
+
+
+           }
+
        
         .fotos{width: 380px; 
               max-width: 100%;
@@ -164,6 +190,7 @@ font-family: 'nunito',sans-serif;}
             padding-top: 30px;
             border-right: 300px;}
 
+         
               .missao{background-color: #cfcfcf;
                   margin:auto;
                   width: 1500px;
@@ -176,7 +203,8 @@ font-family: 'nunito',sans-serif;}
                   max-width: 100%;
                   padding-top: 114px;
                   text-align: center;
-                  margin-top: 0px;}
+                  margin-top: 0px;
+                  padding-bottom: 50px;}
 
                   .missao2{background-color: #cfcfcf;
                       margin:auto;
