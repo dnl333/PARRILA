@@ -299,7 +299,7 @@ font-family: 'nunito',sans-serif;}
 
                   
 
-                  .efeito2:hover{background-color: rgb(224, 146, 1);
+                  .efeito2:hover{background-color: #e09201;
                     padding: 15px;
                     font-size: 25px;
                     border-radius: 2px;
@@ -393,11 +393,22 @@ font-family: 'nunito',sans-serif;}
     div>p{background-color: rgb(255, 255, 255);
           font-family: 'bebas',sans-serif;
           font-size: 30px;
-          margin-top: 1px;
-         
-          }
+          margin-top: 0px;}
 
+          p:hover{background-color:#e09201;
+                  font-size: 34px;
+                  color:white;
+              }
 
-                                            
-                  
+            .pratos{margin-top: 10px;
+                    width: 1090px;
+                    border-radius: 10px;
+                    margin-bottom: -20px;
+                    max-width: 100%;
+                    
+            
+            
+            
+            
+            }      
 
