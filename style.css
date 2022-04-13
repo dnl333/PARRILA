@@ -169,6 +169,8 @@ font-family: 'nunito',sans-serif;}
             .fb{height: 56px;margin-left: 5px;}
             .ig{margin: auto;height: 60px;margin-left: -55px;}
 
+            /*DAQUI PARA BAIXO PAGINA NOSSA HISTORIA*/
+
             .img2{max-width: 100%;
                 border-radius: 2px;
                 float: left;
@@ -334,6 +336,68 @@ font-family: 'nunito',sans-serif;}
 
 
                    }
+                   /*DAQUI PARA BAIXO PAGINA CARDAPIO*/
 
+               .cardapio{background-color:#cfcfcf;
+                         height: 235px;
+                         width: 238px;
+                         display: inline-block;
+                         margin-left: 20px;
+                         margin-top: 50px;
+                         border-radius: 4px;
+                         font-family: 'nunito',sans-serif;
+                         font-weight: bolder;
+                         font-size: 10px;
+                        
+                         
+                        
+                        }
+
+        div#q1{background-image: url('imagens/pratos/babybef.jpg');
+            background-repeat: no-repeat;
+            background-position: center;
+            }
+            div#q2{background-image: url('imagens/pratos/contra-file.jpg');
+                background-repeat: no-repeat;
+                background-position: center;
+                }
+                div#q3{background-image: url('imagens/pratos/espaguete\ e\ frango\ frito.jpg');
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    }
+                    div#q4{background-image: url('imagens/pratos/espaguete\ sugo.jpg');
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        }
+                        div#q5{background-image: url('imagens/pratos/espetinhos.jpg');
+                            background-repeat: no-repeat;
+                            background-position: center;
+                            }
+                            div#q6{background-image: url('imagens/pratos/omelete.jpg');
+                                background-repeat: no-repeat;
+                                background-position: center;
+                                }
+                                div#q7{background-image: url('imagens/pratos/peito\ frango.jpg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    }
+                                    div#q8{background-image: url('imagens/pratos/picanha.jpg');
+                                        background-repeat: no-repeat;
+                                        background-position: center;
+                                        }
+                                        div#q9{background-image: url('imagens/pratos/frango\ parmegiana.jpg');
+                                            background-repeat: no-repeat;
+                                            background-position: center;
+                                            }
+
+    div>p{background-color: rgb(255, 255, 255);
+          font-family: 'bebas',sans-serif;
+          font-size: 30px;
+          margin-top: 1px;
+         
+          }
+
+
+                                            
                   
 
