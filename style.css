@@ -328,3 +328,9 @@ font-family: 'nunito',sans-serif;}
                    @media(min-width:1200px){
 
                    .img{max-width: 100%;} }
+
+                   @media(max-width:600px){
+                       .fb{margin-left: -55px;}
+
+
+                   }
