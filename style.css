@@ -312,7 +312,7 @@ font-family: 'nunito',sans-serif;}
 
                  @media(max-width:600px){
 
-                    a{display:list-item;
+                    a{display:list-item;list-style: none;
                      }
 
 
