@@ -142,21 +142,27 @@ font-family: 'nunito',sans-serif;}
                 float: left;
                 margin:auto;
                 margin-top: 10px;
-                margin-left: 25px;
+                margin-left: 110px ;
+                margin-right: 20px;
                 
               }
           .conteudo2{background-color: #cfcfcf;
-              width: 1500px;
-              padding: 10px;
-              border-radius: 2px;
-              max-width: 94%;
-              margin: auto;
-              margin-top: 10px;
-              font-family: 'nunito',sans-serif;
-              font-size: 22px;
-              line-height: 40px;
-              text-indent: 15px;
-              font-weight: 400;}
+            width: 1500px;
+            height: auto;
+            max-width:100%;
+            padding: 2px;
+            border-radius: 2px;
+            max-width: 100%;
+            margin: auto;
+            margin-top: 0px;
+            font-family: 'nunito',sans-serif;
+            font-size: 22px;
+            line-height: 40px;
+            text-indent: 10px;
+            font-weight: 400;
+            text-align:justify;
+            padding-top: 30px;
+            border-right: 300px;}
 
               .missao{background-color: #cfcfcf;
                   margin:auto;
@@ -164,12 +170,13 @@ font-family: 'nunito',sans-serif;}
                   margin-top: 34px;
                   font-family: 'bebas',sans-serif;
                   font-size: 60px;
-                  padding: 5px;
+                  padding: 2px;
                   border-radius: 2px;
                   text-decoration: underline;
                   max-width: 100%;
-                  padding-top: 40px;
-                  text-align: center;}
+                  padding-top: 114px;
+                  text-align: center;
+                  margin-top: 0px;}
 
                   .missao2{background-color: #cfcfcf;
                       margin:auto;
@@ -183,7 +190,7 @@ font-family: 'nunito',sans-serif;}
                       max-width: 100%;
                       padding-top: 20px;
                       text-align: center;
-                      padding: 5px;
+                      padding: 2px;
                       line-height: 50px;
                   }
                   .valores{background-color: #cfcfcf;
@@ -198,7 +205,7 @@ font-family: 'nunito',sans-serif;}
                       max-width: 100%;
                       
                       text-align: center;
-                      padding: 5px;
+                      padding: 2px;
                       line-height: 0px;}
 
                       .valores li{
