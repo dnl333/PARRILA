@@ -257,7 +257,7 @@ font-family: 'nunito',sans-serif;}
                   }
                   @media(max-width:600px){
 
-                    .missao2{font-size: 18px;}  
+                    .missao2{font-size: 18px;padding-top: 20px;}  
       }
 
 
