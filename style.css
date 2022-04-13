@@ -167,12 +167,6 @@ font-family: 'nunito',sans-serif;}
 
 
             .fb{height: 56px;margin-left: 5px;}
-
-            @media(max-width:600px){
-                .fb{margin-left: -55px;
-
-            }
-
             .ig{margin: auto;height: 60px;margin-left: -55px;}
 
             .img2{max-width: 100%;
