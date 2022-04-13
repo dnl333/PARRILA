@@ -114,6 +114,8 @@ font-family: 'nunito',sans-serif;}
               margin-top: -2px;
              }
 
+             @media(max-width:600px){.fotos{max-width: 70%;margin-top: 5px;}}
+
         .png{background-color: #cfcfcf;
              margin: auto;
              width: 1500px;
@@ -168,10 +170,25 @@ font-family: 'nunito',sans-serif;}
                 float: left;
                 margin:auto;
                 margin-top: 10px;
-                margin-left: 50px ;
-                margin-right: 20px;
+                margin-left: 170px;
+                margin-right: 25px;
                 
               }
+
+              @media(max-width:600px){
+
+                .img2{float:none;
+                background-color:#cfcfcf;
+                max-width:100%;
+                margin-top: 0px;
+                margin-left: 0px;
+                margin-right: 0px;
+            }  
+  }
+
+
+
+
           .conteudo2{background-color: #cfcfcf;
             width: 1500px;
             height: auto;
@@ -190,6 +207,14 @@ font-family: 'nunito',sans-serif;}
             padding-top: 30px;
             border-right: 300px;}
 
+
+            @media(max-width:600px){
+
+                .conteudo2{font-size: 20px;
+                text-align: justify;
+                line-height: 35px;}  
+  }
+
          
               .missao{background-color: #cfcfcf;
                   margin:auto;
@@ -206,6 +231,15 @@ font-family: 'nunito',sans-serif;}
                   margin-top: 0px;
                   padding-bottom: 50px;}
 
+                  @media(max-width:600px){
+
+                    .missao{font-size: 45px;}  
+      
+      
+                   }
+
+
+
                   .missao2{background-color: #cfcfcf;
                       margin:auto;
                       width: 1500px;
@@ -221,6 +255,13 @@ font-family: 'nunito',sans-serif;}
                       padding: 2px;
                       line-height: 50px;
                   }
+                  @media(max-width:600px){
+
+                    .missao2{font-size: 18px;}  
+      }
+
+
+
                   .valores{background-color: #cfcfcf;
                       
                       width: 1500px;
@@ -242,6 +283,12 @@ font-family: 'nunito',sans-serif;}
                       padding: 15px;
                       font-weight: 800;
                   }
+                  @media(max-width:600px){
+
+                    .valores li{font-size: 18px;}  
+      }
+
+                  
 
                   .efeito2:hover{background-color: rgb(224, 146, 1);
                     padding: 15px;
@@ -250,3 +297,10 @@ font-family: 'nunito',sans-serif;}
                     max-width: 100%;
                     cursor: pointer;
                     }
+
+                    @media(max-width:600px){
+
+                        .efeito2:hover{font-size: 20px;}  
+          }
+
+                    
