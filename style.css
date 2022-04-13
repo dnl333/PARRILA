@@ -167,12 +167,6 @@ font-family: 'nunito',sans-serif;}
 
 
             .fb{height: 56px;margin-left: 5px;}
-
-            @media(max-width:600px){
-                .fb{margin-left: -55px;
-
-            }
-
             .ig{margin: auto;height: 60px;margin-left: -55px;}
 
             .img2{max-width: 100%;
@@ -180,7 +174,7 @@ font-family: 'nunito',sans-serif;}
                 float: left;
                 margin:auto;
                 margin-top: 10px;
-                margin-left: 170px;
+                margin-left: 75px;
                 margin-right: 25px;
                 
               }
@@ -203,7 +197,7 @@ font-family: 'nunito',sans-serif;}
           .conteudo2{background-color: #cfcfcf;
             width: 1500px;
             height: auto;
-            max-width:100%;
+            max-width:99%;
             padding: 2px;
             border-radius: 2px;
             max-width: 100%;
@@ -215,8 +209,9 @@ font-family: 'nunito',sans-serif;}
             text-indent: 10px;
             font-weight: 400;
             text-align:justify;
-            padding-top: 30px;
+            padding-top: 37px;
             border-right: 300px;
+            
           }
 
 
@@ -325,3 +320,11 @@ font-family: 'nunito',sans-serif;}
 
 
                  }  
+
+                   @media(min-width:1200px){
+
+                    body{max-width: 99%;}}
+
+                   @media(min-width:1200px){
+
+                   .img{max-width: 100%;} }
