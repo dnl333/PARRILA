@@ -281,7 +281,7 @@ body{text-align: center;
                   }
                   @media(max-width:600px){
 
-                    .missao2{font-size: 18px;padding-top: 20px;}  
+                    .missao2{font-size: 15px;padding-top: 5px;line-height: 40px;}  
       }
 
 
@@ -309,22 +309,23 @@ body{text-align: center;
                   }
                   @media(max-width:600px){
 
-                    .valores li{font-size: 18px;}  
+                    .valores li{font-size: 15px;}  
       }
 
                   
 
                   .efeito2:hover{background-color: #e09201;
-                    padding: 15px;
+                    padding: 3px;
                     font-size: 25px;
                     border-radius: 2px;
                     max-width: 100%;
                     cursor: pointer;
+                    
                     }
 
                     @media(max-width:600px){
 
-                        .efeito2:hover{font-size: 20px;}  
+                        .efeito2:hover{font-size: 17px;}  
           }
 
                    
