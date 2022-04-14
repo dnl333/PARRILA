@@ -44,7 +44,15 @@ body{text-align: center;
    a:hover{background-color: #6e1216;
            padding: 7px;
            color: white; 
-           border-radius: 1px;}
+           border-radius: 1px;
+           }
+
+           @media(max-width:600px){
+            a:hover{width: 94%;
+                    padding: 0%;}}
+
+
+
  
  main .enderecos{background-color: #cfcfcf;
                  margin:auto;
@@ -426,3 +434,4 @@ body{text-align: center;
                     .conteudo2:hover{background-color:#cfcfcf;font-size: 22px;color:black}
                     
              
+                    
