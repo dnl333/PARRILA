@@ -424,7 +424,7 @@ body{text-align: center;
                   color:white;
               }
 
-            .pratos{margin-top: 10px;
+            .pratos{margin-top: 1px;
                     width: 900px;
                     border-radius: 4px;
                     margin-bottom: -20px;
@@ -446,10 +446,10 @@ body{text-align: center;
                     
                     }
                      
-                    #fale2{font-size: 18px;font-size: 40px; font-weight: 800;}
-                    #fale2:hover{background-color: transparent;color: black;font-size: 40px;}
+                    #fale2{font-size: 18px;font-size: 40px; font-weight: 800;text-align:center ;}
+                    #fale2:hover{background-color: transparent;color: black;font-size: 40px; text-align: center;}
 
-                    #fale3{font-size: 100px; font-family: 'bebas',sans-serif;color: black;font-weight: 900;}
+                    #fale3{font-size: 100px; font-family: 'bebas',sans-serif;color: black;font-weight: 900; text-align: center;}
                    
                     #fale3:hover{background-color: #e09201;
                                  color: black;
@@ -461,11 +461,11 @@ body{text-align: center;
 
                                 @media(max-width:600px){
 
-                                    #fale{font-size: 22px;}
-                                    #fale2{font-size: 32px; padding: 5px;}
-                                    #fale2:hover{font-size: 32px;}
-                                    #fale3{font-size: 55px;}
-                                    #fale3:hover{font-size: 57px; padding: 3px;}
+                                    #fale{font-size: 22px; text-align: center;}
+                                    #fale2{font-size: 32px; padding: 5px; text-align: center;}
+                                    #fale2:hover{font-size: 32px; text-align: center;}
+                                    #fale3{font-size: 55px;text-align: center;}
+                                    #fale3:hover{font-size: 57px; padding: 3px;text-align: center;}
 
 
 
