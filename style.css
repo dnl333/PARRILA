@@ -432,6 +432,45 @@ body{text-align: center;
                     }  
 
                     .conteudo2:hover{background-color:#cfcfcf;font-size: 22px;color:black}
+
+                    /*DAQUI PARA BAIXO PAGE FALE CONOSCO*/
+
+                    #fale{background-color: #cfcfcf;
+                        margin-top: 6px;
+                        padding-top: 14px;
+                        font-family: 'bebas',sans-serif;
+                        font-size: 26px;
+                        text-align: center;
+                    
+                    
+                    
+                    }
+                     
+                    #fale2{font-size: 18px;font-size: 40px; font-weight: 800;}
+                    #fale2:hover{background-color: transparent;color: black;font-size: 40px;}
+
+                    #fale3{font-size: 100px; font-family: 'bebas',sans-serif;color: black;font-weight: 900;}
+                   
+                    #fale3:hover{background-color: #e09201;
+                                 color: black;
+                                font-family: 'bebas',sans-serif;
+                                padding: 10px;
+                                border-radius: 10px;
+                                font-size: 105px;
+                                text-align: center;}
+
+                                @media(max-width:600px){
+
+                                    #fale{font-size: 22px;}
+                                    #fale2{font-size: 32px; padding: 5px;}
+                                    #fale2:hover{font-size: 32px;}
+                                    #fale3{font-size: 55px;}
+                                    #fale3:hover{font-size: 57px; padding: 3px;}
+
+
+
+
+                                }
                     
              
                     
